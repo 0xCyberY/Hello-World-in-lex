@@ -1,0 +1,4 @@
+$ lex hello.l
+$ cc lex.yy.c -ll
+$ ./a.out
+-then press enter to show the output
